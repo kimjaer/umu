@@ -2,15 +2,15 @@ import { Hd } from './layout/Hd'
 import  { Ft } from './layout/Ft'
 
 import { MainContent } from './main/MainContent';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
-   <section id="mainpage">
+   <div id="kimjaeryeon">
       <Hd></Hd>
       <MainContent></MainContent>
       <Ft></Ft>
-   </section>
+   </div>
   );
 }
 
