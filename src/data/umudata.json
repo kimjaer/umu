@@ -1,0 +1,70 @@
+{
+    "umu":{
+        "mainpage" :{
+            "mainBanner":[
+                {
+                    "bimg" : "./img/mainpage/banner/banner1.png"
+                },
+                {
+                    "bimg" : "./img/mainpage/banner/banner2.png"
+                },
+                {
+                    "bimg" : "./img/mainpage/banner/banner3.png"
+                },
+                {
+                    "bimg" : "./img/mainpage/banner/banner4.png"
+                },
+                {
+                    "bimg" : "./img/mainpage/banner/banner5.png"
+                }
+            ],
+            "mainytb":[
+                {
+                    "ytbimg" : "./img/mainpage/youtube/umu_ytb1.jpg",
+                    "ytblink":"https://youtu.be/5dG-7XTMilw?si=THltrgvr6csFluGR"
+                },
+                {
+                    "ytbimg" : "./img/mainpage/youtube/umu_ytb2.jpg",
+                    "ytblink":"https://youtu.be/Llmj38D5KrU?si=c4umhOTE4_SEGhT8"
+
+                },
+                {
+                    "ytbimg" : "./img/mainpage/youtube/umu_ytb3.jpg",
+                    "ytblink":"https://youtu.be/ZIqG8J4KR7k?si=i1SOyBxIIjaVHvSk"
+
+                },
+                {
+                    "ytbimg" : "./img/mainpage/youtube/umu_ytb4.jpg",
+                    "ytblink":"https://youtu.be/_fkaR4FCDr4?si=mxWfK5RajTtMomK2"
+
+                }
+            ],
+            "maininsta":[
+                {
+                    "insimg" : "./img/mainpage/umu_photo6.jpg",
+                    "inslink":"https://www.instagram.com/p/CnLw-Dlp2BC/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                },
+                {
+                    "insimg" : "./img/mainpage/umu_pudding3.jpg",
+                    "inslink":"https://www.instagram.com/p/CEf1GETpmqA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                },
+                {
+                    "insimg" : "./img/mainpage/umu_pudding12.jpg",
+                    "inslink":"https://www.instagram.com/p/CzpfeIAxGrY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                },
+                {
+                    "insimg" : "./img/mainpage/umu_etc7.jpg",
+                    "inslink":"https://www.instagram.com/p/CFijXCgJe2j/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                },
+                {
+                    "insimg" : "./img/mainpage/umu_etc19.jpg",
+                    "inslink":"https://www.instagram.com/p/Cj9rMa7J42E/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                },
+                {
+                    "insimg" : "./img/mainpage/umu_etc17.jpg",
+                    "inslink":"https://www.instagram.com/p/Cmuolnbyhi5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+                }
+            ]
+        }
+    }
+}

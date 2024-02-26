@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'GangwonEduSaeeum_OTFMediumA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduSaeeum_OTFMediumA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.w-1440>img{
+    max-width: 1440px;
+}
+.mainpu{
+    margin-top: 10rem;
+}
+.mainpu>img{
+    max-width: 30rem;
+}
+
+.mainpu p, a{
+    font-family: 'GangwonEduSaeeum_OTFMediumA';
+}
+.mainpu p{
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.ytbcon{
+    text-align: center;
+    margin-top: 8rem;
+    border-top: 1px solid black;
+}
+.ytbcon p{
+    margin-top: 3rem !important;
+}
+
+.youtube-container img{
+    margin-right: 2rem;
+    margin-bottom: 4rem;
+}
+
+.instacon p{
+    font-family: 'GangwonEduSaeeum_OTFMediumA';
+    font-size: 3.5rem;
+    margin: 2rem 0 0 0 !important;
+}
+.instacon h3{
+    font-family: 'GangwonEduSaeeum_OTFMediumA';
+    font-size: 1.8rem;
+    margin-top: 0;
+}
+.instacon{
+    border-top: 1px solid #333;
+}
+.instacon h2{
+    margin-top: 3rem !important;
+}
+.insta-container img{
+    max-width: 285px;
+    margin-bottom: 5rem;
+    /* margin-right: 1.8rem; */
+}

@@ -26,6 +26,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
     "styled-components": "^5.3.3",
+    "swiper": "^11.0.6",
     "tailwindcss": "^3.0.18",
     "web-vitals": "^2.1.4"
   },

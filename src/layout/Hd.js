@@ -4,7 +4,7 @@ export const Hd = () => {
     return (
         <header>
             <h1 className="text-center"><a href="/"><img src="/img/logo/umu_logobig.jpg" alt="" /></a></h1>
-            <ul id="gnb" className="d-flex justify-content-center align-items-center border-top">
+            <ul id="gnb" className="d-flex justify-content-center align-items-center">
                     <li>
                         <Link to="/umu">우무</Link>
                     </li>

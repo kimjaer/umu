@@ -1,14 +1,20 @@
-import { Hd } from './layout/Hd'
-import  { Ft } from './layout/Ft'
+import { Hd } from './layout/Hd';
+import  { Ft } from './layout/Ft';
+
+import Umu from './umu/Umu';
+
 
 import { MainContent } from './main/MainContent';
 import './App.scss';
+import "./font.css"
+
+
 
 function App() {
   return (
    <div id="kimjaeryeon">
       <Hd></Hd>
-      <MainContent></MainContent>
+      <MainContent ></MainContent>
       <Ft></Ft>
    </div>
   );
