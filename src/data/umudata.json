@@ -36,7 +36,6 @@
                 {
                     "ytbimg" : "./img/mainpage/youtube/umu_ytb4.jpg",
                     "ytblink":"https://youtu.be/_fkaR4FCDr4?si=mxWfK5RajTtMomK2"
-
                 }
             ],
             "maininsta":[
@@ -64,7 +63,158 @@
                     "insimg" : "./img/mainpage/umu_etc17.jpg",
                     "inslink":"https://www.instagram.com/p/Cmuolnbyhi5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                 }
-            ]
+            ],
+
+            "page3" :{
+                "umustore1" :[
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_10.png",
+                        "puddingnm" : "커스타드푸딩"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_11.png",
+                        "puddingnm" : "말차푸딩"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_12.png",
+                        "puddingnm" : "초코푸딩"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_21.png",
+                        "puddingnm" : "오트비건푸딩"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_25.png",
+                        "puddingnm" : "비건푸딩"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_20.png",
+                        "puddingnm" : "밤호박푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_17.png",
+                        "puddingnm" : "초당옥수수푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_18.png",
+                        "puddingnm" : "구좌당근푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_16.png",
+                        "puddingnm" : "얼그레이푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg" : "./img/page3/pudding1/image_15.png",
+                        "puddingnm" : "우무땅콩쿠키"
+                    }
+                ],
+                "umustore2" :[
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_10.png",
+                        "puddingnm2" : "커스타드푸딩"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_11.png",
+                        "puddingnm2" : "말차푸딩"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_12.png",
+                        "puddingnm2" : "초코푸딩"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_16.png",
+                        "puddingnm2" : "얼그레이푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_13.png",
+                        "puddingnm2" : "우동땅콩푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_21.png",
+                        "puddingnm2" : "오트비건푸딩(시즌)"
+                    },
+                    {
+                        "puddingimg2" : "./img/page3/pudding2/image_26.png",
+                        "puddingnm2" : "우도땅콩쿠키"
+                    }
+                ]
+            },
+
+            "page4" :{
+                "fab" : [
+                    {
+                        "fabimg":"./img/page4/store_1.png",
+                        "fabnm":"우무 지퍼파우치"
+                    },
+                    {
+                        "fabimg":"./img/page4/store_2.png",
+                        "fabnm":"우무 보냉백"
+                    },
+                    {
+                        "fabimg":"./img/page4/store_3.png",
+                        "fabnm":"우무 미니 에코백"
+                    },
+                    {
+                        "fabimg":"./img/page4/store_4.png",
+                        "fabnm":"우무 에코백"
+                    },
+                    {
+                        "fabimg":"./img/page4/store_5.png",
+                        "fabnm":"우무 끈파우치"
+                    }
+                ],
+                "living":[
+                    {
+                        "livingimg" : "./img/page4/store_6.png",
+                        "livingnm" : "우무 장우산"
+                    },
+                    {
+                        "livingimg":"./img/page4/store_7.png",
+                        "livingnm" :"우무 투고 텀블러"
+                    },
+                    {
+                        "livingimg":"./img/page4/store_8.png",
+                        "livingnm" :"우무 워크메이트 머그"
+                    },
+                    {
+                        "livingimg":"./img/page4/store_9.png",
+                        "livingnm" :"우무 머그컵"
+                    },
+                    {
+                        "livingimg":"./img/page4/store_10.png",
+                        "livingnm" :"우무 보틀"
+                    }
+                ],
+                "acc":[
+                    {
+                        "accimg" : "./img/page4/store_11.png",
+                        "accnm" : "우무 키링"
+                    },
+                    {
+                        "accimg":"./img/page4/store_12.png",
+                        "accnm" :"우무 마스킹테이프"
+                    },
+                    {
+                        "accimg":"./img/page4/store_13.png",
+                        "accnm" :"우무 뱃지"
+                    },
+                    {
+                        "accimg":"./img/page4/store_14.png",
+                        "accnm" :"우무 스마트톡"
+                    }
+                ],
+                "food":[
+                    {
+                        "foodimg" : "./img/page4/store_15.png",
+                        "foodnm" : "우무 우도땅콩쿠키"
+                    },
+                    {
+                        "foodimg":"./img/page4/store_16.png",
+                        "foodnm" :"우무 애플망고젤리"
+                    }
+                ]
+            }
+            
         }
     }
 }

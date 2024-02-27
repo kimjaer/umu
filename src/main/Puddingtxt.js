@@ -1,5 +1,5 @@
 
-  export const Pudding = () => {
+  export const Puddingtxt = () => {
     return(
       <>
         <div className="mainpu d-flex justify-content-center align-items-center ">
