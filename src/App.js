@@ -1,8 +1,6 @@
 import { Hd } from './layout/Hd';
 import  { Ft } from './layout/Ft';
 
-import Umu from './subpage/Umu';
-
 
 import { MainContent } from './main/MainContent';
 import './App.scss';
